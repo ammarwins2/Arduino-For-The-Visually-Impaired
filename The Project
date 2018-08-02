@@ -1,0 +1,9 @@
+The concept is to connect a basic arduino uno to a sound sensor, a couple of motors and a couple of pez (the candy) dispensers.
+Make a program for the arduino so they can input the name of a medecine and link it to a pez dispenser.
+When they need to medication they can then just say out loud which medication they need to take and the appropriate dispenser will dispense it.
+The benefit of this is that it would avoid any potential complications or accidents that could occur from someone visually impaired
+who is on lots of medication accidentally taking the wrong tablet/pill/etc. 
+
+Primarily this is meant as a way for us to practice an learn arduino and C# in the context of a project, but something like this is I think
+genuinely useful, especially because the idea of doing it DIY connecting it to pez dispensers means that it would be fairly cheap to use
+if someone actually wanted to use it. 
